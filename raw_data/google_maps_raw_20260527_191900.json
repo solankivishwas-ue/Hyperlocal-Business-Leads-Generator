@@ -1,0 +1,56 @@
+{
+  "search_query": "Dental Clinics in Paldi Ahmedabad",
+  "record_count": 5,
+  "records": [
+    {
+      "title": "Paldi Dental Care - Sample",
+      "categoryName": "Dental clinic",
+      "address": "Near Paldi Cross Road, Paldi, Ahmedabad, Gujarat",
+      "phone": "+91 79 2658 1101",
+      "website": "https://example.com/paldi-dental-care",
+      "totalScore": 4.6,
+      "reviewsCount": 128,
+      "url": "https://www.google.com/maps/search/?api=1&query=Paldi+Dental+Care+Ahmedabad"
+    },
+    {
+      "title": "Smile Studio Paldi - Sample",
+      "categoryName": "Dentist",
+      "address": "Bhattha Road, Paldi, Ahmedabad, Gujarat",
+      "phone": "079-2660-2214",
+      "website": "https://example.com/smile-studio-paldi",
+      "totalScore": 4.8,
+      "reviewsCount": 94,
+      "url": "https://www.google.com/maps/search/?api=1&query=Smile+Studio+Paldi+Ahmedabad"
+    },
+    {
+      "title": "Aarogyam Dental Clinic - Sample",
+      "categoryName": "Dental clinic",
+      "address": "Mahalaxmi Five Roads, Paldi, Ahmedabad, Gujarat",
+      "phone": "+91 98765 43210",
+      "website": "",
+      "totalScore": 4.4,
+      "reviewsCount": 76,
+      "url": "https://www.google.com/maps/search/?api=1&query=Aarogyam+Dental+Clinic+Paldi"
+    },
+    {
+      "title": "Pearl Dental Hub - Sample",
+      "categoryName": "Cosmetic dentist",
+      "address": "Paldi Main Road, Ahmedabad, Gujarat",
+      "phone": "+91-98250-12045",
+      "website": "https://example.com/pearl-dental-hub",
+      "totalScore": 4.7,
+      "reviewsCount": 143,
+      "url": "https://www.google.com/maps/search/?api=1&query=Pearl+Dental+Hub+Paldi"
+    },
+    {
+      "title": "Family Dental Clinic Paldi - Sample",
+      "categoryName": "Dentist",
+      "address": "Opposite Jain Merchant Society, Paldi, Ahmedabad, Gujarat",
+      "phone": "(079) 2644 0088",
+      "website": "https://example.com/family-dental-clinic-paldi",
+      "totalScore": 4.5,
+      "reviewsCount": 61,
+      "url": "https://www.google.com/maps/search/?api=1&query=Family+Dental+Clinic+Paldi"
+    }
+  ]
+}

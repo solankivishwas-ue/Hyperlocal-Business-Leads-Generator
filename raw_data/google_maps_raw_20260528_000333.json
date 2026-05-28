@@ -1,0 +1,57 @@
+{
+  "search_query": "Gyms in Madhapur, Hyderabad, Telangana",
+  "mode": "demo",
+  "record_count": 5,
+  "records": [
+    {
+      "title": "Madhapur Gyms Hub - Sample",
+      "categoryName": "Gyms",
+      "address": "Business Road 1, Madhapur, Hyderabad, Telangana",
+      "phone": "+91 70000 00001",
+      "website": "https://example.com/madhapur-gyms-hub---sample",
+      "totalScore": 4.1,
+      "reviewsCount": 59,
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyms+Madhapur+Hyderabad"
+    },
+    {
+      "title": "Prime Gyms Madhapur - Sample",
+      "categoryName": "Gyms",
+      "address": "Business Road 2, Madhapur, Hyderabad, Telangana",
+      "phone": "+91 70000 00002",
+      "website": "https://example.com/prime-gyms-madhapur---sample",
+      "totalScore": 4.2,
+      "reviewsCount": 78,
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyms+Madhapur+Hyderabad"
+    },
+    {
+      "title": "Hyderabad Gyms Studio - Sample",
+      "categoryName": "Gyms",
+      "address": "Business Road 3, Madhapur, Hyderabad, Telangana",
+      "phone": "+91 70000 00003",
+      "website": "https://example.com/hyderabad-gyms-studio---sample",
+      "totalScore": 4.3,
+      "reviewsCount": 97,
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyms+Madhapur+Hyderabad"
+    },
+    {
+      "title": "Trusted Gyms Center - Sample",
+      "categoryName": "Gyms",
+      "address": "Business Road 4, Madhapur, Hyderabad, Telangana",
+      "phone": "+91 70000 00004",
+      "website": "https://example.com/trusted-gyms-center---sample",
+      "totalScore": 4.4,
+      "reviewsCount": 116,
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyms+Madhapur+Hyderabad"
+    },
+    {
+      "title": "Local Gyms Point - Sample",
+      "categoryName": "Gyms",
+      "address": "Business Road 5, Madhapur, Hyderabad, Telangana",
+      "phone": "+91 70000 00005",
+      "website": "https://example.com/local-gyms-point---sample",
+      "totalScore": 4.5,
+      "reviewsCount": 135,
+      "url": "https://www.google.com/maps/search/?api=1&query=Gyms+Madhapur+Hyderabad"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "search_query": "Dental Clinics in Science City, Ahmedabad, Gujarat",
+  "mode": "demo",
+  "record_count": 5,
+  "records": [
+    {
+      "title": "Science City Dental Clinics Hub - Sample",
+      "categoryName": "Dental Clinics",
+      "address": "Business Road 1, Science City, Ahmedabad, Gujarat",
+      "phone": "+91 70000 00001",
+      "website": "https://example.com/science-city-dental-clinics-hub---sample",
+      "totalScore": 4.1,
+      "reviewsCount": 59,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dental+Clinics+Science+City+Ahmedabad"
+    },
+    {
+      "title": "Prime Dental Clinics Science City - Sample",
+      "categoryName": "Dental Clinics",
+      "address": "Business Road 2, Science City, Ahmedabad, Gujarat",
+      "phone": "+91 70000 00002",
+      "website": "https://example.com/prime-dental-clinics-science-city---sample",
+      "totalScore": 4.2,
+      "reviewsCount": 78,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dental+Clinics+Science+City+Ahmedabad"
+    },
+    {
+      "title": "Ahmedabad Dental Clinics Studio - Sample",
+      "categoryName": "Dental Clinics",
+      "address": "Business Road 3, Science City, Ahmedabad, Gujarat",
+      "phone": "+91 70000 00003",
+      "website": "https://example.com/ahmedabad-dental-clinics-studio---sample",
+      "totalScore": 4.3,
+      "reviewsCount": 97,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dental+Clinics+Science+City+Ahmedabad"
+    },
+    {
+      "title": "Trusted Dental Clinics Center - Sample",
+      "categoryName": "Dental Clinics",
+      "address": "Business Road 4, Science City, Ahmedabad, Gujarat",
+      "phone": "+91 70000 00004",
+      "website": "https://example.com/trusted-dental-clinics-center---sample",
+      "totalScore": 4.4,
+      "reviewsCount": 116,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dental+Clinics+Science+City+Ahmedabad"
+    },
+    {
+      "title": "Local Dental Clinics Point - Sample",
+      "categoryName": "Dental Clinics",
+      "address": "Business Road 5, Science City, Ahmedabad, Gujarat",
+      "phone": "+91 70000 00005",
+      "website": "https://example.com/local-dental-clinics-point---sample",
+      "totalScore": 4.5,
+      "reviewsCount": 135,
+      "url": "https://www.google.com/maps/search/?api=1&query=Dental+Clinics+Science+City+Ahmedabad"
+    }
+  ]
+}

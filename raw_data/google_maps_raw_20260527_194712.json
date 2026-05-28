@@ -1,0 +1,27 @@
+{
+  "search_query": "Restaurants in Navrangpura Ahmedabad",
+  "mode": "demo",
+  "record_count": 2,
+  "records": [
+    {
+      "title": "Navrangpura Restaurants Hub - Sample",
+      "categoryName": "Restaurants",
+      "address": "Business Road 1, Navrangpura, Ahmedabad, Gujarat",
+      "phone": "+91 79 2658 1101",
+      "website": "https://example.com/navrangpura-restaurants-hub---sample",
+      "totalScore": 4.3,
+      "reviewsCount": 59,
+      "url": "https://www.google.com/maps/search/?api=1&query=Restaurants+Navrangpura+Ahmedabad"
+    },
+    {
+      "title": "Prime Restaurants Navrangpura - Sample",
+      "categoryName": "Restaurants",
+      "address": "Business Road 2, Navrangpura, Ahmedabad, Gujarat",
+      "phone": "+91 79 2658 1102",
+      "website": "https://example.com/prime-restaurants-navrangpura---sample",
+      "totalScore": 4.4,
+      "reviewsCount": 78,
+      "url": "https://www.google.com/maps/search/?api=1&query=Restaurants+Navrangpura+Ahmedabad"
+    }
+  ]
+}

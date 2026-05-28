@@ -1,0 +1,147 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Local Business Leads Generator</title>
+    <link rel="stylesheet" href="{% static 'leads/styles.css' %}">
+</head>
+<body>
+    <main class="app-shell">
+        <header class="topbar">
+            <div>
+                <!-- <p class="eyebrow">Google Maps Lead Workflow</p> -->
+                <h1>Local Business Leads Generator</h1>
+            </div>
+            <!-- <a class="download-link {% if not result %}is-disabled{% endif %}" href="{% url 'download_csv' %}">
+                Download CSV
+            </a> -->
+        </header>
+
+        <section class="search-panel" aria-label="Lead search">
+            <form method="post" class="search-form">
+                {% csrf_token %}
+                <div class="field">
+                    <label for="{{ form.keyword_choice.id_for_label }}">{{ form.keyword_choice.label }}</label>
+                    {{ form.keyword_choice }}
+                    {{ form.keyword_choice.errors }}
+                </div>
+                <div class="field custom-keyword-field" data-custom-keyword-field>
+                    <label for="{{ form.custom_keyword.id_for_label }}">{{ form.custom_keyword.label }}</label>
+                    {{ form.custom_keyword }}
+                    {{ form.custom_keyword.errors }}
+                </div>
+                <div class="field">
+                    <label for="{{ form.city.id_for_label }}">{{ form.city.label }}</label>
+                    {{ form.city }}
+                    {{ form.city.errors }}
+                </div>
+                <div class="field custom-city-field" data-custom-city-field>
+                    <label for="{{ form.custom_city.id_for_label }}">{{ form.custom_city.label }}</label>
+                    {{ form.custom_city }}
+                    {{ form.custom_city.errors }}
+                </div>
+                <div class="field">
+                    <label for="{{ form.area.id_for_label }}">{{ form.area.label }}</label>
+                    {{ form.area }}
+                    {{ form.area.errors }}
+                </div>
+                <div class="field custom-area-field" data-custom-area-field>
+                    <label for="{{ form.custom_area.id_for_label }}">{{ form.custom_area.label }}</label>
+                    {{ form.custom_area }}
+                    {{ form.custom_area.errors }}
+                </div>
+                <div class="field compact">
+                    <label for="{{ form.max_results.id_for_label }}">{{ form.max_results.label }}</label>
+                    {{ form.max_results }}
+                    {{ form.max_results.errors }}
+                </div>
+                <button type="submit">Generate Leads</button>
+            </form>
+        </section>
+
+        {% if error %}
+            <section class="notice error">
+                {{ error }}
+            </section>
+        {% endif %}
+
+        {% if result %}
+            <section class="summary-grid" aria-label="Search summary">
+                <div class="metric">
+                    <span>Search Query</span>
+                    <strong>{{ result.search_query }}</strong>
+                </div>
+                <div class="metric">
+                    <span>Raw Results</span>
+                    <strong>{{ result.raw_record_count }}</strong>
+                </div>
+                <div class="metric">
+                    <span>Leads Exported</span>
+                    <strong>{{ result.record_count }}</strong>
+                </div>
+                <div class="metric">
+                    <span>Filtered Out</span>
+                    <strong>{{ result.filtered_out_count }}</strong>
+                </div>
+                <div class="metric">
+                    <span>Data Mode</span>
+                    <strong>{% if result.mode == "live" %}Live Apify API{% else %}Demo Sample{% endif %}</strong>
+                </div>
+            </section>
+
+            {% if result.raw_record_count and not result.record_count %}
+                <section class="notice error">
+                    No records passed the strict area, city, and keyword filter. Try a lower max result count, a nearby area, or a broader keyword.
+                </section>
+            {% endif %}
+
+            {% if result.mode == "demo" %}
+                <section class="notice">
+                    Demo mode is active because no Apify token was found. The sample rows still follow your keyword, area, and city inputs, then pass through the same strict filter.
+                </section>
+            {% endif %}
+
+            <section class="table-panel" aria-label="Generated leads">
+                <div class="table-header">
+                    <div>
+                        <p class="eyebrow">Output Preview</p>
+                        <h2>Business Leads</h2>
+                    </div>
+                    <a class="secondary-action" href="{% url 'download_csv' %}">Download business_leads.csv</a>
+                </div>
+
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                {% for column in columns %}
+                                    <th>{{ column }}</th>
+                                {% endfor %}
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for row in table_rows %}
+                                <tr>
+                                    {% for cell in row %}
+                                        <td>{{ cell }}</td>
+                                    {% endfor %}
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        {% else %}
+            <section class="empty-state">
+                <p class="eyebrow">Ready</p>
+                <h2>Enter a niche and local area to generate a clean lead list.</h2>
+                <p>Example: Dental Clinics in Ranip Ahmedabad, Gyms in Satellite Ahmedabad, or a custom keyword, city, and area.</p>
+            </section>
+        {% endif %}
+    </main>
+    {{ city_area_map|json_script:"city-area-data" }}
+    <script src="{% static 'leads/dashboard.js' %}"></script>
+</body>
+</html>

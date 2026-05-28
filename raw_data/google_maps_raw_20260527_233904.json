@@ -1,0 +1,2817 @@
+{
+  "search_query": "Dental Clinics in Paldi Ahmedabad",
+  "mode": "live",
+  "record_count": 20,
+  "records": [
+    {
+      "title": "US Dental Clinic",
+      "subTitle": "યુએસ ડેન્ટલ",
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "104, 1st floor, Shivalik 5, New Mahalaxmi Cross Rd, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Paldi",
+      "street": "104, 1st floor, Shivalik 5, New Mahalaxmi Cross Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://www.usdental.in/",
+      "phone": "+91 89806 23275",
+      "phoneUnformatted": "+918980623275",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0107801,
+        "lng": 72.5625388
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6raXAGFXjkR6R2wB5_pjSY",
+      "categories": [
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Denture care center",
+        "Doctor",
+        "Orthodontist",
+        "Periodontist"
+      ],
+      "fid": "0x395e85015cdaaaab:0x268de99f07b01de9",
+      "cid": "2778133414395518441",
+      "reviewsCount": 965,
+      "imagesCount": 32,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.436Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=US%20Dental%20Clinic&query_place_id=ChIJq6raXAGFXjkR6R2wB5_pjSY",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 1,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGcKmduv0nUgDsrEhyTjpp-7Jgb6alJBnw0phM_YzFLrPHReA5u7DkHMBYFr9yo0bjhttIsP9RBswasIQ5WW6VbHprQqjK3iqLsiz5IyTWUixMQBVtSpXCNk859zGamVlckq5eeww=w408-h544-k-no",
+      "kgmid": "/g/11bbyfd5k6"
+    },
+    {
+      "title": "Dr Maitry M Shah Dental Clinic And Implant Centre",
+      "subTitle": "ડૉ મૈત્રી મ શાહ",
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "4th Floor, Merlin Pentagon, 406, Mahalaxmi Five Rd, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Paldi",
+      "street": "4th Floor, Merlin Pentagon, 406, Mahalaxmi Five Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://drmaitrymshahdentalclinic.com/?",
+      "phone": "+91 94290 24468",
+      "phoneUnformatted": "+919429024468",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0096593,
+        "lng": 72.5620167
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJY7lpTAOFXjkRnOsF0YZ_of8",
+      "categories": [
+        "Dental clinic",
+        "Dental implants provider",
+        "Dentist",
+        "Pediatric dentist",
+        "Teeth whitening service"
+      ],
+      "fid": "0x395e85034c69b963:0xffa17f86d105eb9c",
+      "cid": "18420144167931210652",
+      "reviewsCount": 769,
+      "imagesCount": 262,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Pediatric care": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Maitry%20M%20Shah%20Dental%20Clinic%20And%20Implant%20Centre&query_place_id=ChIJY7lpTAOFXjkRnOsF0YZ_of8",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 2,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHKvRx-52TKnHaKvC2ik9P_wFGjys4guAg9dxzXjsWxGplOsI6EqcdBkaVqQ6PBkTr1enp_BLJDweC3DQzmifH-B6CakXI1qvMtU6r7sleJUnmfNziinKofI36i_XxyxgysJOy3=w426-h240-k-no",
+      "kgmid": "/g/11fyzfhw0w"
+    },
+    {
+      "title": "Tuskers Multispeciality Dental Care - NABH Accredited Dental Clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "315, Scarlet Business Hub, opposite Ankur School, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Paldi",
+      "street": "315, Scarlet Business Hub, opposite Ankur School",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://www.tuskersdental.in/",
+      "phone": "+91 80000 97970",
+      "phoneUnformatted": "+918000097970",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0079391,
+        "lng": 72.5603815
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ4wcfQASFXjkRVvKfiTn4xrY",
+      "categories": [
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Dentist",
+        "Orthodontist",
+        "Prosthodontist",
+        "Teeth whitening service"
+      ],
+      "fid": "0x395e8504401f07e3:0xb6c6f839899ff256",
+      "cid": "13170487086297379414",
+      "reviewsCount": 304,
+      "imagesCount": 97,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "12 to 3 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Cosmetic dentistry": true
+          },
+          {
+            "Emergency services": true
+          },
+          {
+            "Sedation dentistry": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Children": [
+          {
+            "Nursing room": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Tuskers%20Multispeciality%20Dental%20Care%20-%20NABH%20Accredited%20Dental%20Clinic&query_place_id=ChIJ4wcfQASFXjkRVvKfiTn4xrY",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 3,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFuAv7to4jwLKB-m4GtreQZJ3rIXnYfIRJ5DqU2QhNlQhZ2w5cug2YcKvK6XWjz7gFJoAsFzn9q9Xmr2YecA1c6pKFU3DKan_OOPYFrts95DZQhqVD_i-KctmmaBA8y1bDp9ig=w426-h240-k-no",
+      "kgmid": "/g/11ggmhwf9s"
+    },
+    {
+      "title": "Shreeji Dental Clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "107,1st floor, Sukh Santhi Complex, Pankaj Society, Bhatta, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Pankaj Society, Bhatta, Paldi",
+      "street": "107,1st floor, Sukh Santhi Complex",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "+91 78785 05140",
+      "phoneUnformatted": "+917878505140",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0064758,
+        "lng": 72.5572454
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJy9no2wSFXjkRbClRVsqYPdE",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e8504dbe8d9cb:0xd13d98ca5651296c",
+      "cid": "15077375122305263980",
+      "reviewsCount": 472,
+      "imagesCount": 20,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:30 AM to 1 PM, 4 to 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Shreeji%20Dental%20Clinic&query_place_id=ChIJy9no2wSFXjkRbClRVsqYPdE",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 4,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFxexbXEzYWQ8WlIVHK_zLkDHD22uolv-aXGeYoJfl-QrQd0u-cM7w4NvskjyLw_CSXQ4RrNV2oO_goNUwrIAexzEdUdDtl6BIuaKmeNJIa0d3M3WBttCCT8lrEGQQhnjKOzy_c9P_wBqKm=w408-h544-k-no",
+      "kgmid": "/g/11t55_k5dm"
+    },
+    {
+      "title": "Sabka dentist",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Sukhshanti Complex, 104, Post Office, above Dominos, opp. Fatehpura, Pankaj Society, Bhatta, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Pankaj Society, Bhatta, Paldi",
+      "street": "Sukhshanti Complex, 104, Post Office, above Dominos, opp. Fatehpura",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://www.sabkadentist.com/dental-clinics-in-ahmedabad/paldi/",
+      "phone": "+91 91361 09075",
+      "phoneUnformatted": "+919136109075",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0064758,
+        "lng": 72.5572454
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.7,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJn3wMHQSFXjkRutuSRvE7V74",
+      "categories": [
+        "Dental clinic",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Dentist",
+        "Denture care center",
+        "Endodontist",
+        "Oral surgeon",
+        "Orthodontist",
+        "Pediatric dentist",
+        "Periodontist"
+      ],
+      "fid": "0x395e85041d0c7c9f:0xbe573bf14692dbba",
+      "cid": "13715497097637321658",
+      "reviewsCount": 1498,
+      "imagesCount": 24,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": false
+          },
+          {
+            "Wheelchair accessible restroom": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Cosmetic dentistry": true
+          },
+          {
+            "Pediatric care": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sabka%20dentist&query_place_id=ChIJn3wMHQSFXjkRutuSRvE7V74",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 5,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFZ72VA6uZ99OrfQ7XM1UM_Xb5XF5daprNmld1-99YOwsA1nizu6Pml5o8vEJaDA71JFq-cOg-M-hXpxzpGMqduN0IEbkrOtc7dIS6pBUcAt4vpRenREUHlSkOut69wVh9KKzIK=w408-h306-k-no",
+      "kgmid": "/g/11b772tps6"
+    },
+    {
+      "title": "Jardosh Dental Clinic",
+      "subTitle": "જરદોશ ડેન્ટલ ક્લિનિક",
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "410, Onyx 2 Complex, Above HDFC Bank, Jalaram Mandir Road,, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Paldi",
+      "street": "410, Onyx 2 Complex, Above HDFC Bank, Jalaram Mandir Road,",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "http://www.jardoshdental.com/",
+      "phone": "+91 79 2665 2304",
+      "phoneUnformatted": "+917926652304",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.014964,
+        "lng": 72.563276
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJp8Ls5wGFXjkRHlY5-H9k718",
+      "categories": [
+        "Dental clinic",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Dental hygienist",
+        "Dental radiology",
+        "Dentist",
+        "Emergency dental service",
+        "Pediatric dentist",
+        "Pharmacy"
+      ],
+      "fid": "0x395e8501e7ecc2a7:0x5fef647ff839561e",
+      "cid": "6912854453825132062",
+      "reviewsCount": 704,
+      "imagesCount": 119,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "11 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "11 AM to 6 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Pediatric care": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Jardosh%20Dental%20Clinic&query_place_id=ChIJp8Ls5wGFXjkRHlY5-H9k718",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 6,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGX6zirDenVMy1uwJiyQc5uo8b_3GtOkxCg18u1_r6gBsyHqfVSXLHIa5ORcQ9Z8NfaNDX6ZKHjsUoe5kATa2QWvyPZAY-BCuBDEafsXDQwNgd8llUIflx7Ab0GGwNrZ1waWQU=w408-h272-k-no",
+      "kgmid": "/g/11b8vcm194"
+    },
+    {
+      "title": "Vora Dental Clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "4th Floor 405, Shivalik 5, New Mahalaxmi Cross Rd, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Paldi",
+      "street": "4th Floor 405, Shivalik 5, New Mahalaxmi Cross Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://voradentalclinic.com/",
+      "phone": "+91 99240 87185",
+      "phoneUnformatted": "+919924087185",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0108811,
+        "lng": 72.5625825
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJq6raXAGFXjkRgOGokVuFUdo",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e85015cdaaaab:0xda51855b91a8e180",
+      "cid": "15731501601714135424",
+      "reviewsCount": 652,
+      "imagesCount": 2,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.437Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 2:30 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Vora%20Dental%20Clinic&query_place_id=ChIJq6raXAGFXjkRgOGokVuFUdo",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 7,
+      "isAdvertisement": false,
+      "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lFrcK5UeWP3DNCipuz8Iag&cb_client=search.gws-prod.gps&w=408&h=240&yaw=101.84286&pitch=0&thumbfov=100",
+      "kgmid": "/g/11s1w4___0"
+    },
+    {
+      "title": "Dr.Shailesh Jain - Vardhman Dental Care & Implant Centre Paldi",
+      "subTitle": "વર્ધમાન દાંતનું દવાખાનું",
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "3rd Floor, Anikedhya Capitol - 2, Mahalaxmi Five Rd, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Paldi",
+      "street": "3rd Floor, Anikedhya Capitol - 2, Mahalaxmi Five Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://vardhmandentalcarepaldi.blogspot.com/",
+      "phone": "+91 98250 87105",
+      "phoneUnformatted": "+919825087105",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.009286,
+        "lng": 72.5624854
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJny9LVwGFXjkRX8yjp6831zY",
+      "categories": [
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Dental implants provider",
+        "Dentist",
+        "Orthodontist",
+        "Periodontist",
+        "Teeth whitening service"
+      ],
+      "fid": "0x395e8501574b2f9f:0x36d737afa7a3cc5f",
+      "cid": "3951688425612233823",
+      "reviewsCount": 488,
+      "imagesCount": 157,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.438Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr.Shailesh%20Jain%20-%20Vardhman%20Dental%20Care%20%26%20Implant%20Centre%20Paldi&query_place_id=ChIJny9LVwGFXjkRX8yjp6831zY",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 8,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHD8r49qGzheX31sp1lI1BaHcrtzHgsF8CRbJsg347Sw9gDJPA7fa8ZdmKujx-Fin9daGjKT_p9oGRvg9T04RRUKk-4Y0wr0JBWvQFUpeF6aPzwPndeCDXiYQ8PxhEZc6E0czzG=w408-h271-k-no",
+      "kgmid": "/g/1td31fnw"
+    },
+    {
+      "title": "Monarch Multispeciality Dental Clinic and Implant Centre",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Anikedhya Capitol-2, 602, Vishwakunj Cross Rd, near Mahalaxmi Five Road, Fatehpura, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Paldi",
+      "street": "Anikedhya Capitol-2, 602, Vishwakunj Cross Rd, near Mahalaxmi Five Road",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://dentistahmedabad.in/",
+      "phone": "+91 84015 97533",
+      "phoneUnformatted": "+918401597533",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0092638,
+        "lng": 72.5624561
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJyVFCa-GFXjkRs2wNBfSKWB4",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e85e16b4251c9:0x1e588af4050d6cb3",
+      "cid": "2186650399749794995",
+      "reviewsCount": 275,
+      "imagesCount": 62,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.438Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 12 AM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "12 to 7:30 AM, 10 AM to 7:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Monarch%20Multispeciality%20Dental%20Clinic%20and%20Implant%20Centre&query_place_id=ChIJyVFCa-GFXjkRs2wNBfSKWB4",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 9,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGr0gZRdpppIXTTGlfmNr0qT7eztub33u6Mt-EVFolpFu4OjBkTIpn8F6X9YmQ0lQ_-kZSB06s_Ejyx_9y9ex50Q8ETV8gB2kX5hk6saPV6cPJx3lNTjLKt1y8BaDnnSmg-78YZ=w408-h251-k-no",
+      "kgmid": "/g/11w25httgt"
+    },
+    {
+      "title": "Modi's Dental Clinic In Ahmedabad And Aligners Clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "HK Complex, 1, Dharnidhar derasar road, near Anjali Cross Road, Yogeshwarnagar Society, Bhatta, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Yogeshwarnagar Society, Bhatta, Paldi",
+      "street": "HK Complex, 1, Dharnidhar derasar road, near Anjali Cross Road",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "+91 98982 17836",
+      "phoneUnformatted": "+919898217836",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0064248,
+        "lng": 72.5515578
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJP9BvkBiFXjkR5NuN0jdFIWE",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e8518906fd03f:0x61214537d28ddbe4",
+      "cid": "6998951401968491492",
+      "reviewsCount": 279,
+      "imagesCount": 10,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.438Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 1 PM, 4:30 to 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          },
+          {
+            "Assistive hearing loop": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Cosmetic dentistry": true
+          },
+          {
+            "Emergency services": true
+          },
+          {
+            "Pediatric care": true
+          },
+          {
+            "Sedation dentistry": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Payment plans": true
+          }
+        ],
+        "Children": [
+          {
+            "Nursing room": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking garage": true
+          },
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          },
+          {
+            "Paid parking garage": true
+          },
+          {
+            "Paid parking lot": true
+          },
+          {
+            "Paid street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Modi's%20Dental%20Clinic%20In%20Ahmedabad%20And%20Aligners%20Clinic&query_place_id=ChIJP9BvkBiFXjkR5NuN0jdFIWE",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 10,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHiM2t37OVhK-DlJBsBwwHvURH8QoZBV-VKxJV34lzkWfoMIDKxkr0YFMZKjGR_XMs131XPeZfqEZ8EOPKYmgCS_kw46QNxvz73XDWz0L8wkjnelhKl2K_88zrePTyXcD8Ajkbz=w408-h408-k-no",
+      "kgmid": "/g/1ptyk0c4q"
+    },
+    {
+      "title": "Satvam Dental Multiverse",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "HR Elanza, 308-10, Vikas Gruh Rd, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Paldi",
+      "street": "HR Elanza, 308-10, Vikas Gruh Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "http://www.satvamdentalmultiverse.com/",
+      "phone": "+91 96622 96651",
+      "phoneUnformatted": "+919662296651",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0100458,
+        "lng": 72.5610521
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJKU8jazWFXjkRrVuyE1mC9NM",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e85356b234f29:0xd3f4825913b25bad",
+      "cid": "15272975555414350765",
+      "reviewsCount": 343,
+      "imagesCount": 44,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.438Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 1 PM, 5 to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 1 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible restroom": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Satvam%20Dental%20Multiverse&query_place_id=ChIJKU8jazWFXjkRrVuyE1mC9NM",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 11,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDUv8R1p77GWrcy2WQlBkadtDFTjmTpCBgmfIfcgEo_wKaX_7Ahg0XIDwfv7PNM9zv8aojjMixLQvzYbtd4P2jbY3Ha0l2MI-6SIMyKcTNwFI2ThROOdp2NXxZg-F9_CwNWMtv=w408-h271-k-no",
+      "kgmid": "/g/11sv_6mvj3"
+    },
+    {
+      "title": "Yash Dental Clinic in Paldi | Dr. Manisha Mehta - Best Dentist | Root Canal, Wisdom Tooth Removal",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Ratna Artemus-2, 304, road, opp. Dominos pizza, Fatehpura Gam, Bhatta, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura Gam, Bhatta, Paldi",
+      "street": "Ratna Artemus-2, 304, road, opp. Dominos pizza",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://yashdentalclinic.co.in/",
+      "phone": "+91 73835 90393",
+      "phoneUnformatted": "+917383590393",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0066184,
+        "lng": 72.5567683
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJK_lMdo6FXjkRuJ1LpOYyaYU",
+      "categories": [
+        "Dental clinic",
+        "Dentist",
+        "Orthodontist",
+        "Teeth whitening service"
+      ],
+      "fid": "0x395e858e764cf92b:0x856932e6a44b9db8",
+      "cid": "9613270845779320248",
+      "reviewsCount": 53,
+      "imagesCount": 20,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 2 PM, 4 to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 1 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "additionalOpeningHours": {
+        "Senior hours": [
+          {
+            "day": "Monday",
+            "hours": "10 AM–2 PM"
+          },
+          {
+            "day": "Tuesday",
+            "hours": "10 AM–2 PM"
+          },
+          {
+            "day": "Wednesday",
+            "hours": "10 AM–2 PM"
+          },
+          {
+            "day": "Thursday",
+            "hours": "10 AM–2 PM"
+          },
+          {
+            "day": "Friday",
+            "hours": "10 AM–2 PM"
+          },
+          {
+            "day": "Saturday",
+            "hours": "10 AM–1 PM"
+          },
+          {
+            "day": "Sunday",
+            "hours": "Closed"
+          }
+        ]
+      },
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ],
+        "Children": [
+          {
+            "Nursing room": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free street parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Yash%20Dental%20Clinic%20in%20Paldi%20%7C%20Dr.%20Manisha%20Mehta%20-%20Best%20Dentist%20%7C%20Root%20Canal%2C%20Wisdom%20Tooth%20Removal&query_place_id=ChIJK_lMdo6FXjkRuJ1LpOYyaYU",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 12,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEz67Cz_SKbNifLFIi9Y2prPW4Wl5Rg8IXzHrenDmfIzIT7IM1LwEYbXvp157hsLMcbeNtgNqyGTcNAQf-DlnoPt2N20MQz3Wz6uVvyXkz4UY-X34iOFiajYGZn7jU5M_cFDNUb=w408-h306-k-no",
+      "kgmid": "/g/11h8f54s_6"
+    },
+    {
+      "title": "Dr. Mehul's Dental Care & Implant centre",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Vinhouse Complex, 9, Narayan Nagar Rd, near Jain Dairy, Fatehpura, Shantivan, Ranna Park, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Shantivan, Ranna Park, Paldi",
+      "street": "Vinhouse Complex, 9, Narayan Nagar Rd, near Jain Dairy",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "http://www.mehulsdentalcare.com/",
+      "phone": "+91 94289 58144",
+      "phoneUnformatted": "+919428958144",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0023345,
+        "lng": 72.562094
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJER3IygiFXjkR7LtZ-kBvaY8",
+      "categories": [
+        "Dental clinic",
+        "Cosmetic dentist",
+        "Dental implants periodontist",
+        "Dentist",
+        "Denture care center",
+        "Oral surgeon",
+        "Orthodontist",
+        "Pediatric dentist"
+      ],
+      "fid": "0x395e8508cac81d11:0x8f696f40fa59bbec",
+      "cid": "10333913144847088620",
+      "reviewsCount": 511,
+      "imagesCount": 41,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 9 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM to 12 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Offerings": [
+          {
+            "Pediatric care": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Credit cards": true
+          },
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr.%20Mehul's%20Dental%20Care%20%26%20Implant%20centre&query_place_id=ChIJER3IygiFXjkR7LtZ-kBvaY8",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 13,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_RD847C6iWGGJp_S9ESqwMmuudUOp3cl-Wy5GVcUZEal1XI0BvgNEF1wkNruVoL7uiU5krgzuOCfinUsGmRgHIjQM_7vqiBSmgoabafOqeQ6Bt4XzOeNHH3UC9k1qV6pntJP7Yw=w408-h272-k-no",
+      "kgmid": "/g/11cn5rwrtr"
+    },
+    {
+      "title": "Aadinath Children & Dental Hospital Paldi",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Laxmi One, 301, Narayan Nagar Rd, opp. Chandranagar BRTS Station, Narayan Nagar Society, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Narayan Nagar Society, Paldi",
+      "street": "Laxmi One, 301, Narayan Nagar Rd, opp. Chandranagar BRTS Station",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://www.instagram.com/aadinath.acdh.hospital/",
+      "phone": "+91 97121 20506",
+      "phoneUnformatted": "+919712120506",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 22.9998666,
+        "lng": 72.5574769
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJLa-iQBWFXjkRaXI6sNpL1xk",
+      "categories": [
+        "Dental clinic",
+        "Children's hospital",
+        "Dental implants periodontist",
+        "Dental implants provider",
+        "Pediatric dentist",
+        "Pediatrician"
+      ],
+      "fid": "0x395e851540a2af2d:0x19d74bdab03a7269",
+      "cid": "1862040373572563561",
+      "reviewsCount": 313,
+      "imagesCount": 39,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Thursday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Friday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Saturday",
+          "hours": "Open 24 hours"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Open 24 hours"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible entrance": true
+          },
+          {
+            "Wheelchair accessible parking lot": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "NFC mobile payments": true
+          },
+          {
+            "Credit cards": true
+          }
+        ],
+        "Children": [
+          {
+            "Nursing room": true
+          }
+        ],
+        "Parking": [
+          {
+            "Free parking garage": true
+          },
+          {
+            "Free parking lot": true
+          },
+          {
+            "Free street parking": true
+          },
+          {
+            "On-site parking": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Aadinath%20Children%20%26%20Dental%20Hospital%20Paldi&query_place_id=ChIJLa-iQBWFXjkRaXI6sNpL1xk",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 14,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH-uOMyaawYRlgSDE9XexT6h6hGFMGZNDGcesd-bcJB4_qxc47eYgnTn2u0rTyM6JKixnLqFATXE1VVnzh1wvETyh4o3Q15rRFpYVXcNu9ivTsKUNb34Jlp1ws0k0sudGF-AfT9lQ=w408-h272-k-no",
+      "kgmid": "/g/11w4m4hq46"
+    },
+    {
+      "title": "Dr Nidhi's Family Dental Care",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "410, Mehta 531, Ashram Rd, beside VS hospital, opposite Town Hall, Paldi, Ahmedabad, Gujarat 380006, India",
+      "neighborhood": "Paldi",
+      "street": "410, Mehta 531, Ashram Rd, beside VS hospital, opposite Town Hall",
+      "city": "Ahmedabad",
+      "postalCode": "380006",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://ahmedabad-dentist.com/",
+      "phone": "+91 79906 48728",
+      "phoneUnformatted": "+917990648728",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0212532,
+        "lng": 72.571189
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJH3B_HACFXjkRdNsOW396SMU",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e85001c7f701f:0xc5487a7f5b0edb74",
+      "cid": "14215746911202106228",
+      "reviewsCount": 378,
+      "imagesCount": 74,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Accessibility": [
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Nidhi's%20Family%20Dental%20Care&query_place_id=ChIJH3B_HACFXjkRdNsOW396SMU",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 15,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHtp-bUMC9FEiz21qLcXBiHdGNd1l_sgRjXnpQ-dEGsuWqKy9zn8lEs5y1gp3LbZkhjnXg5EF6HPt2w9JxpAKIv7wGH7zuaDZfZ297_ObkVjQSgzCMHqngGRje6HhvWisa-sM8h=w408-h272-k-no",
+      "kgmid": "/g/11pcmkgv9s"
+    },
+    {
+      "title": "Crystal Multi-speciality dental clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "Aditya complex, Narayan Nagar Rd, Narayan Nagar Society, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Narayan Nagar Society, Paldi",
+      "street": "Aditya complex, Narayan Nagar Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "+91 70161 58752",
+      "phoneUnformatted": "+917016158752",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 22.9996583,
+        "lng": 72.5569649
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJHd3JqlyFXjkRCrRkWV3XfNY",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e855caac9dd1d:0xd67cd75d5964b40a",
+      "cid": "15455464817160401930",
+      "reviewsCount": 64,
+      "imagesCount": 19,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9:30 AM to 8:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:30 AM to 12:30 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Service options": [
+          {
+            "Onsite services": false
+          }
+        ],
+        "Offerings": [
+          {
+            "Cosmetic dentistry": true
+          },
+          {
+            "Pediatric care": true
+          },
+          {
+            "Sedation dentistry": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Payments": [
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Crystal%20Multi-speciality%20dental%20clinic&query_place_id=ChIJHd3JqlyFXjkRCrRkWV3XfNY",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 16,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGGUuSkoWiG1fU4j4N_7HLWTyXdG5nk6rciFe0y8cV4voh-4pSzsPCa-uF2JecTJkbNSU_peW4OkfXc6XPYMnm0x74c0rvkC4_g0HfoPaKsPtBvHer1x9eqFmTiNPKPfQ138gAt4cNIf639=w408-h544-k-no",
+      "kgmid": "/g/11xglnmbk4"
+    },
+    {
+      "title": "Dr.Krupali Parikh Dental Clinic",
+      "subTitle": "ડૉ કૃપાલી પરીખ ડેન્ટલ ક્લિનિક",
+      "description": null,
+      "price": null,
+      "categoryName": "Medical clinic",
+      "address": "Shri Samarpan charitable trust, N N Road, Kripa Sagar Society, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Kripa Sagar Society, Paldi",
+      "street": "Shri Samarpan charitable trust, N N Road",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "",
+      "phoneUnformatted": "",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0029004,
+        "lng": 72.5634498
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJPc_9Q6-FXjkRFdM_pS_Fw_c",
+      "categories": [
+        "Medical clinic"
+      ],
+      "fid": "0x395e85af43fdcf3d:0xf7c3c52fa53fd315",
+      "cid": "17853330156253336341",
+      "reviewsCount": 194,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 7:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 7:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 7:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 7:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 7:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:30 AM to 1:30 PM, 4:30 to 6:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr.Krupali%20Parikh%20Dental%20Clinic&query_place_id=ChIJPc_9Q6-FXjkRFdM_pS_Fw_c",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 17,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHpa6nNQWjsbEaVf76wDlv5G-ZCsao8nq1K5ZTyPZHnh7SoRgKBk7Rp4vfCrED7jVbiesZdDim72-2X_85RwOc9gsFUHPoy9LpTJciEgDJVTxVGpNuwuEALGGRdt7LUPkgfJ5AMNA=w408-h306-k-no",
+      "kgmid": "/g/11fr1sql9v"
+    },
+    {
+      "title": "POOJA DENTAL CLINIC",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dentist",
+      "address": "SHOP NO:- 6 JYOTI KASHI PAREKH APPARTMENT VASANT KUNJ CROSS ROAD, Shree Manubhai Jadhani Marg, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Vasantkunj Society, Paldi",
+      "street": "SHOP NO:- 6 JYOTI KASHI PAREKH APPARTMENT VASANT KUNJ CROSS ROAD, Shree Manubhai Jadhani Marg",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "+91 94264 06156",
+      "phoneUnformatted": "+919426406156",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0138934,
+        "lng": 72.5545293
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ24pJ03GFXjkRPXNk_XMIwgg",
+      "categories": [
+        "Dentist"
+      ],
+      "fid": "0x395e8571d3498adb:0x8c20873fd64733d",
+      "cid": "631076192050770749",
+      "reviewsCount": 126,
+      "imagesCount": 9,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.439Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 1 PM, 5 to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointments recommended": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=POOJA%20DENTAL%20CLINIC&query_place_id=ChIJ24pJ03GFXjkRPXNk_XMIwgg",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 18,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG3S0VT75qzoeMWjNiXEEmvJ71v5FmR1ENzCmt2iGz8ctxoxAQTK2dcK1zR0YofXTK_pRQJsp9CLhiI_EOmkUTJSJpwC2gxVmMtZdranxJ8tr_r6g2wguKb3mhANd1UmVWn1j8k9Q=w408-h272-k-no",
+      "kgmid": "/g/11jsr66w62"
+    },
+    {
+      "title": "Sevaarth Dental & Aesthetic Clinic",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "2nd Floor, Abhinav Arcade, 210, Paldi Rd, near Kothawala Flats, Pritam Nagar, Paldi, Ahmedabad, Gujarat 380006, India",
+      "neighborhood": "Pritam Nagar, Paldi",
+      "street": "2nd Floor, Abhinav Arcade, 210, Paldi Rd, near Kothawala Flats",
+      "city": "Ahmedabad",
+      "postalCode": "380006",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "phone": "+91 87994 46323",
+      "phoneUnformatted": "+918799446323",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0181481,
+        "lng": 72.5688553
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 4.9,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJP0usjnKFXjkRzeD2_pvbRaE",
+      "categories": [
+        "Dental clinic"
+      ],
+      "fid": "0x395e85728eac4b3f:0xa145db9bfef6e0cd",
+      "cid": "11620935876543439053",
+      "reviewsCount": 67,
+      "imagesCount": 8,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.440Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "9 AM to 8 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9 AM to 8 PM"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "Accessibility": [
+          {
+            "Wheelchair accessible restroom": true
+          },
+          {
+            "Wheelchair accessible seating": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Gender-neutral restroom": true
+          },
+          {
+            "Restroom": true
+          }
+        ],
+        "Crowd": [
+          {
+            "LGBTQ+ friendly": true
+          }
+        ],
+        "Payments": [
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Sevaarth%20Dental%20%26%20Aesthetic%20Clinic&query_place_id=ChIJP0usjnKFXjkRzeD2_pvbRaE",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 19,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGaWPpUew1tZfuqoJ6YYdagUWWqeRg5RUrt0YzY7vkUI5A121S5nhzINEtStyPcXjpxSILmqKVy_SQ4XAcyF3kFwnygKbjJdZfSdjLrhyFoPTdDUviFeFPcFcDjXM9S2Y_fBu4rjZthvpzY=w408-h544-k-no",
+      "kgmid": "/g/11vqsz5ffr"
+    },
+    {
+      "title": "Dr Niyati's Dental Clinic - Dental Implant - Dentures - Crown & Bridge- Root Canal Treatment - Dentist in Paldi",
+      "subTitle": null,
+      "description": null,
+      "price": null,
+      "categoryName": "Dental clinic",
+      "address": "503 Anikedhya Capitol-2, Opp Merlin Pentagon Mahalaxmi Five, Vishwakunj Cross Rd, Paldi, Ahmedabad, Gujarat 380007, India",
+      "neighborhood": "Fatehpura, Paldi",
+      "street": "503 Anikedhya Capitol-2, Opp Merlin Pentagon Mahalaxmi Five, Vishwakunj Cross Rd",
+      "city": "Ahmedabad",
+      "postalCode": "380007",
+      "state": "Gujarat",
+      "countryCode": "IN",
+      "website": "https://www.facebook.com/drniyatisdentalclinic/",
+      "phone": "+91 73830 06722",
+      "phoneUnformatted": "+917383006722",
+      "claimThisBusiness": false,
+      "location": {
+        "lat": 23.0093112,
+        "lng": 72.5624702
+      },
+      "locatedIn": null,
+      "floor": null,
+      "plusCode": null,
+      "menu": null,
+      "servicesLink": null,
+      "totalScore": 5,
+      "permanentlyClosed": false,
+      "temporarilyClosed": false,
+      "placeId": "ChIJ5_41M82FXjkRdiTO2CNW9L0",
+      "categories": [
+        "Dental clinic",
+        "Dental implants periodontist",
+        "Dental implants provider",
+        "Dentist",
+        "Emergency dental service",
+        "Orthodontist",
+        "Periodontist",
+        "Teeth whitening service"
+      ],
+      "fid": "0x395e85cd3335fee7:0xbdf45623d8ce2476",
+      "cid": "13687659879447012470",
+      "reviewsCount": 80,
+      "imagesCount": 28,
+      "imageCategories": [],
+      "scrapedAt": "2026-05-27T18:08:58.440Z",
+      "reserveTableUrl": null,
+      "googleFoodUrl": null,
+      "hotelStars": null,
+      "hotelDescription": null,
+      "checkInDate": null,
+      "checkOutDate": null,
+      "hotelAds": [],
+      "popularTimesLiveText": null,
+      "popularTimesLivePercent": null,
+      "popularTimesHistogram": {},
+      "openingHours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM to 7:30 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "Closed"
+        }
+      ],
+      "peopleAlsoSearch": [],
+      "placesTags": [],
+      "reviewsTags": [],
+      "additionalInfo": {
+        "From the business": [
+          {
+            "Identifies as women-owned": true
+          }
+        ],
+        "Service options": [
+          {
+            "Onsite services": true
+          }
+        ],
+        "Amenities": [
+          {
+            "Restroom": true
+          }
+        ],
+        "Planning": [
+          {
+            "Appointment required": true
+          },
+          {
+            "Appointments recommended": true
+          }
+        ],
+        "Payments": [
+          {
+            "Debit cards": true
+          },
+          {
+            "Google Pay": true
+          },
+          {
+            "NFC mobile payments": true
+          }
+        ]
+      },
+      "gasPrices": [],
+      "url": "https://www.google.com/maps/search/?api=1&query=Dr%20Niyati's%20Dental%20Clinic%20-%20Dental%20Implant%20-%20Dentures%20-%20Crown%20%26%20Bridge-%20Root%20Canal%20Treatment%20-%20Dentist%20in%20Paldi&query_place_id=ChIJ5_41M82FXjkRdiTO2CNW9L0",
+      "searchPageUrl": "https://www.google.com/maps/search/Dental%20Clinics%20in%20Paldi%20Ahmedabad/@12.477882564444934,93.79592969509186,13z?hl=en",
+      "searchString": "Dental Clinics in Paldi Ahmedabad",
+      "language": "en",
+      "rank": 20,
+      "isAdvertisement": false,
+      "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAH_Z8edG9TR-259JiV1SUBGImZOYl6_dsHBSSxN_7Q0z8_k6L3XKc1N6EL27QkEZha2Hxd1VVFJtj1e98HRTSNFJrDr7GkepDw-0Djjfvk9fOxZBco-frJaw9IQghaxmYntJiFv=w408-h306-k-no",
+      "kgmid": "/g/11rxht8mv6"
+    }
+  ]
+}
