@@ -1,420 +1,150 @@
-from __future__ import annotations
+"""Django forms for the lead generation dashboard.
+
+Cascading location dropdowns: Country → State (optional) → City → Area (optional).
+State and Area are intentionally not required — users may want to search an
+entire city without narrowing to a specific neighbourhood.
+"""
 
 from django import forms
 
+# ---------------------------------------------------------------------------
+# Keyword presets
+# ---------------------------------------------------------------------------
 
-CUSTOM_KEYWORD_VALUE = "__custom__"
-CUSTOM_CITY_VALUE = "__custom_city__"
-CUSTOM_AREA_VALUE = "__custom_area__"
-
-KEYWORD_PRESETS = [
-    "Dental Clinics",
-    "Gyms",
-    "Restaurants",
-    "Salons",
-    "Doctors",
-    "Hospitals",
-    "Real Estate Agents",
-    "Interior Designers",
-    "Cafes",
-    "Coaching Classes",
-    "Car Repair Shops",
-    "Law Firms",
-    "Chartered Accountants",
-    "Pet Clinics",
-    "Boutiques",
-    "Schools",
-    "Colleges",
-    "Pharmacies",
-    "Diagnostic Labs",
-    "Physiotherapy Clinics",
-    "Event Planners",
-    "Packers and Movers",
-    "Digital Marketing Agencies",
+KEYWORD_CHOICES = [
+    ("", "— Select or type a keyword —"),
+    # General
+    ("Restaurants", "Restaurants"),
+    ("Cafes", "Cafes"),
+    ("Gyms", "Gyms"),
+    ("Salons", "Salons"),
+    ("Boutiques", "Boutiques"),
+    # Professional
+    ("Dental Clinics", "Dental Clinics"),
+    ("Doctors", "Doctors"),
+    ("Hospitals", "Hospitals"),
+    ("Pet Clinics", "Pet Clinics"),
+    ("Law Firms", "Law Firms"),
+    ("Chartered Accountants", "Chartered Accountants"),
+    ("Accounting Firms", "Accounting Firms"),
+    ("Real Estate Agents", "Real Estate Agents"),
+    ("Interior Designers", "Interior Designers"),
+    # Trade
+    ("Car Repair Shops", "Car Repair Shops"),
+    ("Plumbers", "Plumbers"),
+    ("Electricians", "Electricians"),
+    # B2B / SaaS targets
+    ("Marketing Agencies", "Marketing Agencies"),
+    ("Software Companies", "Software Companies"),
+    ("Coaching Classes", "Coaching Classes"),
+    # Custom
+    ("custom", "Custom keyword…"),
 ]
-
-CITY_AREA_MAP = {
-    "Ahmedabad": [
-        "Ranip",
-        "Paldi",
-        "Satellite",
-        "Navrangpura",
-        "Bodakdev",
-        "Maninagar",
-        "Vastrapur",
-        "Thaltej",
-        "Naranpura",
-        "Bopal",
-        "Prahlad Nagar",
-        "Chandkheda",
-        "Gota",
-        "Memnagar",
-        "Ambawadi",
-        "Shahibaug",
-        "Nikol",
-        "Naroda",
-    ],
-    "Surat": [
-        "Adajan",
-        "Vesu",
-        "Varachha",
-        "City Light",
-        "Katargam",
-        "Piplod",
-        "Rander",
-        "Athwa",
-        "Udhna",
-        "Pal",
-        "Althan",
-        "Nanpura",
-    ],
-    "Vadodara": [
-        "Alkapuri",
-        "Gotri",
-        "Manjalpur",
-        "Fatehgunj",
-        "Akota",
-        "Karelibaug",
-        "Sayajigunj",
-        "Waghodia Road",
-        "Vasna Road",
-        "Subhanpura",
-    ],
-    "Rajkot": [
-        "Kalawad Road",
-        "Yagnik Road",
-        "150 Feet Ring Road",
-        "Raiya Road",
-        "University Road",
-        "Gondal Road",
-        "Mavdi",
-        "Kotecha Nagar",
-    ],
-    "Gandhinagar": [
-        "Sector 11",
-        "Sector 21",
-        "Sector 26",
-        "Kudasan",
-        "Sargasan",
-        "Raysan",
-        "Infocity",
-        "Pethapur",
-    ],
-    "Mumbai": [
-        "Andheri",
-        "Bandra",
-        "Borivali",
-        "Dadar",
-        "Ghatkopar",
-        "Powai",
-        "Thane",
-        "Vashi",
-        "Malad",
-        "Chembur",
-        "Lower Parel",
-        "Mulund",
-        "Kandivali",
-    ],
-    "Pune": [
-        "Kothrud",
-        "Baner",
-        "Wakad",
-        "Hinjewadi",
-        "Viman Nagar",
-        "Koregaon Park",
-        "Hadapsar",
-        "Aundh",
-        "Shivaji Nagar",
-        "Kharadi",
-        "Magarpatta",
-    ],
-    "Delhi": [
-        "Connaught Place",
-        "Karol Bagh",
-        "Lajpat Nagar",
-        "Rohini",
-        "Saket",
-        "Dwarka",
-        "Janakpuri",
-        "Hauz Khas",
-        "Pitampura",
-        "Greater Kailash",
-    ],
-    "Bengaluru": [
-        "Indiranagar",
-        "Koramangala",
-        "Whitefield",
-        "Jayanagar",
-        "HSR Layout",
-        "Marathahalli",
-        "Electronic City",
-        "BTM Layout",
-        "Hebbal",
-        "Yelahanka",
-        "Rajajinagar",
-    ],
-    "Hyderabad": [
-        "Banjara Hills",
-        "Jubilee Hills",
-        "Madhapur",
-        "Hitech City",
-        "Gachibowli",
-        "Kondapur",
-        "Secunderabad",
-        "Kukatpally",
-        "Ameerpet",
-        "Begumpet",
-    ],
-    "Chennai": [
-        "T Nagar",
-        "Anna Nagar",
-        "Adyar",
-        "Velachery",
-        "Porur",
-        "Mylapore",
-        "OMR",
-        "Tambaram",
-        "Nungambakkam",
-        "Guindy",
-    ],
-    "Kolkata": [
-        "Salt Lake",
-        "Park Street",
-        "Ballygunge",
-        "New Town",
-        "Howrah",
-        "Dum Dum",
-        "Garia",
-        "Behala",
-        "Rajarhat",
-    ],
-    "Jaipur": [
-        "Malviya Nagar",
-        "Vaishali Nagar",
-        "Mansarovar",
-        "C Scheme",
-        "Raja Park",
-        "Tonk Road",
-        "Jagatpura",
-        "Sodala",
-    ],
-    "Lucknow": [
-        "Gomti Nagar",
-        "Hazratganj",
-        "Aliganj",
-        "Indira Nagar",
-        "Aminabad",
-        "Mahanagar",
-        "Vikas Nagar",
-    ],
-    "Indore": [
-        "Vijay Nagar",
-        "Palasia",
-        "Bhawarkuan",
-        "Rau",
-        "MG Road",
-        "Sapna Sangeeta",
-        "Scheme 78",
-    ],
-    "Bhopal": [
-        "MP Nagar",
-        "Arera Colony",
-        "Kolar Road",
-        "New Market",
-        "Bairagarh",
-        "Gulmohar Colony",
-        "Hoshangabad Road",
-    ],
-    "Nagpur": [
-        "Dharampeth",
-        "Sitabuldi",
-        "Manish Nagar",
-        "Sadar",
-        "Ramdaspeth",
-        "Wardha Road",
-        "Hingna",
-    ],
-    "Nashik": [
-        "Gangapur Road",
-        "College Road",
-        "Panchavati",
-        "Indira Nagar",
-        "Satpur",
-        "Cidco",
-        "Nashik Road",
-    ],
-    "Chandigarh": [
-        "Sector 17",
-        "Sector 22",
-        "Sector 35",
-        "Sector 43",
-        "Manimajra",
-        "Zirakpur",
-        "Mohali",
-    ],
-    "Noida": [
-        "Sector 18",
-        "Sector 62",
-        "Sector 63",
-        "Sector 75",
-        "Sector 137",
-        "Greater Noida",
-        "Noida Extension",
-    ],
-    "Gurugram": [
-        "Cyber City",
-        "MG Road",
-        "Sector 14",
-        "Sector 29",
-        "Golf Course Road",
-        "Sohna Road",
-        "DLF Phase 1",
-        "DLF Phase 3",
-    ],
-    "Kochi": [
-        "Edappally",
-        "Kakkanad",
-        "MG Road",
-        "Panampilly Nagar",
-        "Vyttila",
-        "Fort Kochi",
-        "Kaloor",
-    ],
-    "Coimbatore": [
-        "RS Puram",
-        "Gandhipuram",
-        "Peelamedu",
-        "Saibaba Colony",
-        "Singanallur",
-        "Race Course",
-        "Saravanampatti",
-    ],
-    "Visakhapatnam": [
-        "MVP Colony",
-        "Dwaraka Nagar",
-        "Gajuwaka",
-        "Madhurawada",
-        "Beach Road",
-        "Seethammadhara",
-        "Akkayyapalem",
-    ],
-}
-
-
-def city_choices() -> list[tuple[str, str]]:
-    return [(city, city) for city in CITY_AREA_MAP] + [
-        (CUSTOM_CITY_VALUE, "Custom city")
-    ]
-
-
-def area_choices_for_city(city: str) -> list[tuple[str, str]]:
-    areas = CITY_AREA_MAP.get(city, [])
-    return [(area, area) for area in areas] + [(CUSTOM_AREA_VALUE, "Custom area")]
 
 
 class LeadSearchForm(forms.Form):
-    keyword_choice = forms.ChoiceField(
-        label="Keyword",
-        choices=[(keyword, keyword) for keyword in KEYWORD_PRESETS]
-        + [(CUSTOM_KEYWORD_VALUE, "Custom keyword")],
-        initial="Dental Clinics",
-        widget=forms.Select,
+    """Lead search form with Country / State / City / Area cascade dropdowns."""
+
+    keyword = forms.ChoiceField(
+        choices=KEYWORD_CHOICES,
+        required=False,
+        label="Business Type",
+        widget=forms.Select(attrs={"class": "form-select", "id": "keyword-select"}),
     )
+
     custom_keyword = forms.CharField(
-        label="Custom Keyword",
-        max_length=100,
         required=False,
-        widget=forms.TextInput(
-            attrs={
-                "placeholder": "Example: Pediatric Dentists",
-                "autocomplete": "off",
-            }
-        ),
+        label="Custom keyword",
+        max_length=100,
+        widget=forms.TextInput(attrs={
+            "class": "form-control",
+            "placeholder": "e.g. Yoga Studios",
+            "id": "custom-keyword",
+        }),
     )
-    city = forms.ChoiceField(
+
+    # ----------------------------------------------------------------
+    # Location cascade — rendered as <select> elements by dashboard.js.
+    # Django treats these as plain text values after form submission.
+    # ----------------------------------------------------------------
+    country = forms.CharField(
+        required=True,
+        label="Country",
+        max_length=100,
+        widget=forms.HiddenInput(),   # actual <select> rendered manually in template
+    )
+
+    state = forms.CharField(
+        required=False,               # optional — not all countries have states
+        label="State / Region",
+        max_length=100,
+        widget=forms.HiddenInput(),
+    )
+
+    city = forms.CharField(
+        required=True,
         label="City",
-        choices=city_choices(),
-        initial="Ahmedabad",
-        widget=forms.Select,
+        max_length=120,
+        widget=forms.HiddenInput(),
     )
-    custom_city = forms.CharField(
-        label="Custom City",
+
+    area = forms.CharField(
+        required=False,               # optional — search whole city if left blank
+        label="Area / Neighborhood",
         max_length=100,
-        required=False,
-        widget=forms.TextInput(
-            attrs={
-                "placeholder": "Example: Udaipur",
-                "autocomplete": "off",
-            }
-        ),
+        widget=forms.HiddenInput(),
     )
-    area = forms.ChoiceField(
-        label="Area",
-        choices=[],
-        initial="Ranip",
-        widget=forms.Select,
-    )
-    custom_area = forms.CharField(
-        label="Custom Area",
-        max_length=100,
-        required=False,
-        widget=forms.TextInput(
-            attrs={
-                "placeholder": "Example: Hiran Magri",
-                "autocomplete": "off",
-            }
-        ),
-    )
+
     max_results = forms.IntegerField(
+        required=False,
         label="Max Results",
+        initial=50,
         min_value=1,
         max_value=1000,
-        initial=100,
-        widget=forms.NumberInput(attrs={"step": "1"}),
+        widget=forms.NumberInput(attrs={
+            "class": "form-control",
+            "min": "1",
+            "max": "1000",
+        }),
     )
 
-    def __init__(self, *args, **kwargs):
-        super().__init__(*args, **kwargs)
-
-        selected_city = "Ahmedabad"
-        if self.is_bound:
-            selected_city = self.data.get("city", selected_city)
-        elif self.initial.get("city"):
-            selected_city = self.initial["city"]
-
-        self.fields["area"].choices = area_choices_for_city(selected_city)
+    # P1: optional email enrichment toggle
+    include_email = forms.BooleanField(
+        required=False,
+        initial=True,
+        label="Include email enrichment (Hunter.io / website scrape)",
+        widget=forms.CheckboxInput(attrs={"class": "form-check-input"}),
+    )
 
     def clean(self):
-        cleaned_data = super().clean()
-        keyword_choice = cleaned_data.get("keyword_choice")
-        custom_keyword = (cleaned_data.get("custom_keyword") or "").strip()
-        city_choice = cleaned_data.get("city")
-        custom_city = (cleaned_data.get("custom_city") or "").strip()
-        area_choice = cleaned_data.get("area")
-        custom_area = (cleaned_data.get("custom_area") or "").strip()
+        cleaned = super().clean()
+        keyword = cleaned.get("keyword", "").strip()
+        custom_keyword = cleaned.get("custom_keyword", "").strip()
 
-        if keyword_choice == CUSTOM_KEYWORD_VALUE:
+        # Resolve final keyword
+        if keyword == "custom":
             if not custom_keyword:
-                self.add_error("custom_keyword", "Enter a custom keyword.")
+                self.add_error("custom_keyword", "Please enter a custom keyword.")
             else:
-                cleaned_data["keyword"] = custom_keyword
+                cleaned["resolved_keyword"] = custom_keyword
+        elif keyword:
+            cleaned["resolved_keyword"] = keyword
         else:
-            cleaned_data["keyword"] = keyword_choice
+            self.add_error("keyword", "Please select or enter a business type keyword.")
 
-        if city_choice == CUSTOM_CITY_VALUE:
-            if not custom_city:
-                self.add_error("custom_city", "Enter a custom city.")
-            else:
-                cleaned_data["city"] = custom_city
-        else:
-            cleaned_data["city"] = city_choice
+        # Validate required location fields
+        country = cleaned.get("country", "").strip()
+        city = cleaned.get("city", "").strip()
+        area = cleaned.get("area", "").strip()
 
-        if city_choice == CUSTOM_CITY_VALUE or area_choice == CUSTOM_AREA_VALUE:
-            if not custom_area:
-                self.add_error("custom_area", "Enter a custom area.")
-            else:
-                cleaned_data["area"] = custom_area
-        else:
-            cleaned_data["area"] = area_choice
+        if not country:
+            self.add_error("country", "Please select a country.")
+        if not city:
+            self.add_error("city", "Please select a city.")
+        # area is optional — empty means search the entire city
 
-        return cleaned_data
+        max_results = cleaned.get("max_results")
+        if max_results is None:
+            cleaned["max_results"] = 50
+
+        return cleaned

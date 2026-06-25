@@ -1,0 +1,115 @@
+{
+  "search_query": "Gyms in Babelsberg, Potsdam",
+  "mode": "live",
+  "record_count": 9,
+  "records": [
+    {
+      "title": "Stone and Steel Gym",
+      "categoryName": "Gym",
+      "address": "6 Main St, Potsdam, NY 13676",
+      "street": "6 Main St",
+      "phone": "",
+      "website": "https://www.stoneandsteelgym.com/",
+      "totalScore": 4.7,
+      "reviewsCount": 23,
+      "url": "https://www.google.com/maps/search/?api=1&query=Stone%20and%20Steel%20Gym&query_place_id=ChIJP_7wXlxhzEwRHQKpDwduowo",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Bjorn Fitness",
+      "categoryName": "Personal trainer",
+      "address": "22 Depot St #23, Potsdam, NY 13676",
+      "street": "22 Depot St #23",
+      "phone": "(315) 267-6644",
+      "website": "http://bjornfitness.com/",
+      "totalScore": 4.8,
+      "reviewsCount": 23,
+      "url": "https://www.google.com/maps/search/?api=1&query=Bjorn%20Fitness&query_place_id=ChIJRVru14VhzEwRoIDKWuyWsTM",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Maxcy Hall",
+      "categoryName": "Sports complex",
+      "address": "005 Tupper Lake Dr, Potsdam, NY 13676",
+      "street": "005 Tupper Lake Dr",
+      "phone": "(315) 267-3484",
+      "website": "http://www.potsdambears.com/",
+      "totalScore": 4.6,
+      "reviewsCount": 296,
+      "url": "https://www.google.com/maps/search/?api=1&query=Maxcy%20Hall&query_place_id=ChIJablHECBhzEwR8bTHr4OEjhA",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "SuperFit Potsdam",
+      "categoryName": "Gym",
+      "address": "Großbeerenstraße 127-135, 14482 Potsdam-Babelsberg, Germany",
+      "street": "Großbeerenstraße 127-135",
+      "phone": "+49 30 688381768",
+      "website": "http://www.superfit.club/",
+      "totalScore": 4.7,
+      "reviewsCount": 913,
+      "url": "https://www.google.com/maps/search/?api=1&query=SuperFit%20Potsdam&query_place_id=ChIJbT0gl1xfqEcRgMESI57um80",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Satori Fitness Club Babelsberg",
+      "categoryName": "Gym",
+      "address": "Rudolf-Breitscheid-Straße 162, 14482 Potsdam-Babelsberg, Germany",
+      "street": "Rudolf-Breitscheid-Straße 162",
+      "phone": "+49 331 719400",
+      "website": "http://www.satori-fitness.de/",
+      "totalScore": 4.6,
+      "reviewsCount": 116,
+      "url": "https://www.google.com/maps/search/?api=1&query=Satori%20Fitness%20Club%20Babelsberg&query_place_id=ChIJg4XH7k5fqEcRIXAfEvqgVpU",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Kieser",
+      "categoryName": "Fitness center",
+      "address": "Wetzlarer Str. 86, 14482 Potsdam-Babelsberg, Germany",
+      "street": "Wetzlarer Str. 86",
+      "phone": "+49 331 7049871",
+      "website": "https://www.kieser.com/de-de/studios/potsdam-babelsberg/",
+      "totalScore": 4.7,
+      "reviewsCount": 156,
+      "url": "https://www.google.com/maps/search/?api=1&query=Kieser&query_place_id=ChIJg3_s5EFfqEcRMv909xol-RY",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Trainingsclub Amvicu",
+      "categoryName": "Gym",
+      "address": "Tuchmacherstraße 46-47, 14482 Potsdam, Germany",
+      "street": "Tuchmacherstraße 46-47",
+      "phone": "+49 331 28791256",
+      "website": "https://www.amvicu.de/",
+      "totalScore": 5,
+      "reviewsCount": 1,
+      "url": "https://www.google.com/maps/search/?api=1&query=Trainingsclub%20Amvicu&query_place_id=ChIJt6D2XVD1qEcRiGUoUccZNP4",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "SUNY Potsdam",
+      "categoryName": "College",
+      "address": "44 Pierrepont Ave, Potsdam, NY 13676",
+      "street": "44 Pierrepont Ave",
+      "phone": "(315) 267-2000",
+      "website": "http://potsdam.edu/",
+      "totalScore": 4.3,
+      "reviewsCount": 141,
+      "url": "https://www.google.com/maps/search/?api=1&query=SUNY%20Potsdam&query_place_id=ChIJkf659txgzEwRkQc6n1dbva0",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    },
+    {
+      "title": "Sporteve Potsdam Frauenfitness Rehasport und Kurse",
+      "categoryName": "Gym",
+      "address": "Kopernikusstraße 12, 14482 Potsdam-Babelsberg, Germany",
+      "street": "Kopernikusstraße 12",
+      "phone": "+49 331 2734177",
+      "website": "https://www.frauenfitnesspotsdam.de/",
+      "totalScore": 4.8,
+      "reviewsCount": 160,
+      "url": "https://www.google.com/maps/search/?api=1&query=Sporteve%20Potsdam%20Frauenfitness%20Rehasport%20und%20Kurse&query_place_id=ChIJg0aNhlhfqEcRpciTHgzVggU",
+      "searchPageUrl": "https://www.google.com/maps/search/Gyms%20in%20Babelsberg,%20Potsdam?hl=en"
+    }
+  ]
+}
